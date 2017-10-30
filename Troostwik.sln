@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Troostwik", "Troostwik\Troostwik.csproj", "{381D269A-1E5F-4914-8B73-513A6C55A7CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{381D269A-1E5F-4914-8B73-513A6C55A7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381D269A-1E5F-4914-8B73-513A6C55A7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381D269A-1E5F-4914-8B73-513A6C55A7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381D269A-1E5F-4914-8B73-513A6C55A7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7309869C-114C-4BBA-AAD5-843CB9513793}
+	EndGlobalSection
+EndGlobal
